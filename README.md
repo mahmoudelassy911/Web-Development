@@ -1,4 +1,4 @@
-# Portfolio-WebDev
+# Web Development
 
 Lab work for **CSE343 Web Development** (Ain Shams University, Faculty of Engineering).
 
